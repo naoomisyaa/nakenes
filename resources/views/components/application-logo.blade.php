@@ -1,0 +1,1 @@
+<p class="font-bold text-4xl  font-[poppins]">nakene's</p>
