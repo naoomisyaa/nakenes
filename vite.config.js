@@ -9,7 +9,7 @@ export default defineConfig({
         }),
     ],
     build: {
-        outDir: 'public/build', // Pastikan output sesuai Laravel
+        outDir: 'public/build', // Output sesuai Laravel
         emptyOutDir: true,
     },
 });
